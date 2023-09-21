@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
     //QPalette p =w.palette();
     //p.setColor(w.backgroundRole(),Qt::red);
     //w.setPalette(p);
-
+    //test
     w.show();
     return a.exec();
 }
